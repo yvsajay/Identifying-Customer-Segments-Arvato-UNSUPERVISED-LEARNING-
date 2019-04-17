@@ -7,8 +7,8 @@ In this project, I work with real-life data provided to us by Bertelsmann partne
 ## Data
 There are four files associated with the data of this project:
 
-**Udacity_AZDIAS_Subset.csv:** Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
-**Udacity_CUSTOMERS_Subset.csv:** Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
-**Data_Dictionary.md:** Information file about the features in the provided datasets.
-**AZDIAS_Feature_Summary.csv:** Summary of feature attributes for demographic data.
+- **Udacity_AZDIAS_Subset.csv:** Demographic data for the general population of Germany; 891211 persons (rows) x 85 features (columns).
+- **Udacity_CUSTOMERS_Subset.csv:** Demographic data for customers of a mail-order company; 191652 persons (rows) x 85 features (columns).
+- **Data_Dictionary.md:** Information file about the features in the provided datasets.
+- **AZDIAS_Feature_Summary.csv:** Summary of feature attributes for demographic data.
 
